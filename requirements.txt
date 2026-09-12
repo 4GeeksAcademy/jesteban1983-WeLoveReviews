@@ -13,3 +13,8 @@ seaborn>=0.12.2
 sqlalchemy>=2.0.38
 sympy>=1.10.1
 xgboost
+transformers==4.57.1
+torch==2.9.0
+jupyter==1.1.1
+nbformat==5.10.4
+nbclient==0.10.2
